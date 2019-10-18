@@ -6,3 +6,13 @@ body{
 .center{
   text-align: center;
 }
+
+h1{
+  margin: auto;
+  padding: 60px;
+}
+
+
+img{
+  border-radius: 25px
+}
